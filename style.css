@@ -1,0 +1,29 @@
+div{
+    align-items: center;
+    font-family: arial;
+    color: yellowgreen;
+}
+input{
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+    position: center;
+    margin: 0px 40px;
+    border: 2px solid black;
+    font-size: 15px;
+}
+textarea{
+    margin-top: 5%;
+    /* width: 200px;
+    height: 200px; */
+}
+button{
+    margin: 20px;
+    padding: 5px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    background: yellowgreen;
+}
+body{
+    background-color: bisque;
+}
